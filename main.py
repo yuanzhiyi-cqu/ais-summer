@@ -1,12 +1,14 @@
 import pandas as pd
-import numpy as np
 
-print("AIS summer environment is ready.")
+scores = pd.read_csv("data/scores.csv")
 
-scores = pd.DataFrame({
-    "name": ["Alice", "Bob", "Cindy"],
-    "score": [90, 85, 88]
-})
-
+print("AIS Summer Score Analyzer")
 print(scores)
-print("Average score:", np.mean(scores["score"]))
+
+average_score = scores["score"].mean()
+max_score = scores["score"].max()
+min_score = scores["score"].min()
+
+print("Average score:", average_score)
+print("Max score:", max_score)
+print("Min score:", min_score)
