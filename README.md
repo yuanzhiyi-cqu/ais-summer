@@ -29,3 +29,22 @@ This repository records my summer learning progress for Python, AI engineering, 
 
 ```bash
 uv run python main.py
+
+## CS50P Progress
+
+### Week 0: Functions and Variables
+
+Completed exercises:
+
+- hello.py
+- indoor.py
+- playback.py
+- faces.py
+- einstein.py
+- tip.py
+
+### Week 1: Conditionals
+
+In progress:
+
+- deep.py
