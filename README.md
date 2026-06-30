@@ -29,6 +29,7 @@ This repository records my summer learning progress for Python, AI engineering, 
 
 ```bash
 uv run python main.py
+```
 
 ## CS50P Progress
 
