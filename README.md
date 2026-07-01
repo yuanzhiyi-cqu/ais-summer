@@ -51,3 +51,4 @@ Completed exercises:
 - deep.py
 - bank.py
 - extensions.py
+- grade_checker.py
