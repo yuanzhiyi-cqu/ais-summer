@@ -46,6 +46,8 @@ Completed exercises:
 
 ### Week 1: Conditionals
 
-In progress:
+Completed exercises:
 
 - deep.py
+- bank.py
+- extensions.py
