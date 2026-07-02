@@ -44,11 +44,13 @@ Completed exercises:
 - einstein.py
 - tip.py
 
-### Week 1: Conditionals
+### Week 1: Conditionals and String Processing
 
 Completed exercises:
 
 - deep.py
 - bank.py
 - extensions.py
+- interpreter.py
 - grade_checker.py
+- word_counter.py
