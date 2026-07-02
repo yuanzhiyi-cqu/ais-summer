@@ -54,3 +54,14 @@ Completed exercises:
 - interpreter.py
 - grade_checker.py
 - word_counter.py
+
+## Projects
+
+### Student Grade Manager
+
+Current progress:
+
+- Created a grade manager project folder
+- Added a CSV file for student scores
+- Wrote reader.py to read scores from CSV
+- Calculated average, max, and min scores
